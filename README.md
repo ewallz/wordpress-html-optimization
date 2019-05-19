@@ -1,5 +1,3 @@
-[![Build Status](https://travis-ci.org/o10n-x/wordpress-html-optimization.svg?branch=master)](https://travis-ci.org/o10n-x/wordpress-html-optimization) ![Version](https://img.shields.io/github/release/o10n-x/wordpress-html-optimization.svg)
-
 <img src="https://github.com/o10n-x/wordpress-o10n-core/blob/master/docs/images/perf-100.png" align="right">
 
 # WordPress WPO: HTML Optimization
